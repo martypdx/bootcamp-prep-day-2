@@ -1,0 +1,16 @@
+body {
+  color: grey;
+}
+
+h1 {
+  font-family: sans-serif;
+  border: 5px solid green;
+  padding: 5px;
+}
+
+.holder-type {
+  color: #9a9a9a;
+  margin-top: 10px;
+  font-family: cursive;
+  text-decoration: underlined;
+}
